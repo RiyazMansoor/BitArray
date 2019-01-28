@@ -1,2 +1,2 @@
-# BitArray
-A bit representation of an array of bools and some helpful utility functions
+# Sieve
+A sieve implemented as a bit array for space optimization and some helpful utility functions
